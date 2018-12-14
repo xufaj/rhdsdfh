@@ -7,7 +7,7 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "520641227419287553"; // ايدي السررفر
+var server = "517345819406368769"; // ايدي السررفر
 var channel = "520641228157747202";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('** ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA . ANA 3TAYA .  **')
